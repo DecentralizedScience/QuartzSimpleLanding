@@ -1,0 +1,56 @@
+{
+  "metaTitle": "Quartz Open Access",
+  "metaDescription": "The cooperative route to fair and sustainable Open Access.",
+  "name": "Quartz Open Access",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.global/46953768-cd0e-4d04-8a95-9b072f45ea9e/quartz%20white.png?v=1684421839159",
+  "links": [
+    {
+      "url": "https://mailchi.mp/06e35bf6e459/quartz-open-access",
+      "text": "Join!",
+      "img":""
+    },
+    {
+      "url": "https://quartzoa.pubpub.org/",
+      "text": "Learn more",
+      "img": ""
+    },
+    {
+      "url": "https://mailchi.mp/06e35bf6e459/quartz-open-access",
+      "text": "Subscribe",
+      "img":""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena":"",
+    "bandcamp": "",
+    "cohost":"",
+    "dev": "",    
+    "facebook": "",
+    "github": "https://github.com/DecentralizedScience/Quartz-platform/",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "keybase":"",
+    "kofi": "",
+    "letterboxd":"",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "patreon": "",
+    "pinboard":"",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "https://twitter.com/QuartzOA",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/watch?v=dhIPRUw_Los",
+    "email": "hi@decentralized.science"
+  }
+}
